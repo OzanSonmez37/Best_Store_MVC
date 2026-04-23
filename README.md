@@ -39,7 +39,7 @@ An e-commerce web application built with ASP.NET MVC. This project provides a cl
 ## ⚙️ Installation
 
 1. Clone the repository
-git clone https://github.com/OzanSonmez37/BestStoreMVC.git
+git clone https://github.com/OzanSonmez37/BestStoreMVC
 2. Open in Visual Studio
 3. Configure database
 
