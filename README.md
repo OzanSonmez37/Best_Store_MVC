@@ -55,15 +55,15 @@ Press Ctrl + F5
 
 Do NOT expose sensitive data such as API keys in appsettings.json.
 
-📁 Project Structure
-BestStoreMVC/
-│
-├── Properties/
-├── wwwroot/
-├── Controllers/
-├── Migrations/
-├── Models/
-├── Services/
-├── Views/
-├── appsettings.json
-└── Program.cs
+## 📁 Project Structure
+- BestStoreMVC/
+- │
+- ├── Properties/
+- ├── wwwroot/
+- ├── Controllers/
+- ├── Migrations/
+- ├── Models/
+- ├── Services/
+- ├── Views/
+- ├── appsettings.json
+- └── Program.cs
