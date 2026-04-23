@@ -41,3 +41,30 @@ An e-commerce web application built with ASP.NET MVC. This project provides a cl
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/OzanSonmez37/BestStoreMVC.git
+2. Open in Visual Studio
+3. Configure database
+
+Update the following file:
+
+appsettings.json
+
+4. Run the project
+
+Press Ctrl + F5
+
+🔐 Important Note
+
+Do NOT expose sensitive data such as API keys in appsettings.json.
+
+📁 Project Structure
+BestStoreMVC/
+│
+├── Properties/
+├── wwwroot/
+├── Controllers/
+├── Migrations/
+├── Models/
+├── Services/
+├── Views/
+├── appsettings.json
+└── Program.cs
