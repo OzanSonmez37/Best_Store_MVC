@@ -12,9 +12,6 @@ An e-commerce web application built with ASP.NET MVC. This project provides a cl
 - 👤 User authentication (Login / Register)  
 - 📦 Order management  
 - 💻 Responsive and modern UI  
-
-### 🔜 Upcoming Features
-
 - 💳 Payment integration  
 - 🛠️ Admin dashboard  
 - 🔎 Product filtering & search  
