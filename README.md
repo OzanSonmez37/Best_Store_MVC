@@ -21,7 +21,7 @@ An e-commerce web application built with ASP.NET MVC. This project provides a cl
 
 ## 🖼️ Preview
 
-<img width="100%" src="https://github.com/user-attachments/assets/078231e6-8424-484c-bc16-a1f425a5094d" />
+<img width="1494" height="766" alt="Image" src="https://github.com/user-attachments/assets/96b7a90e-6fd8-414c-8222-00bf5319e0d8" />
 
 ---
 
